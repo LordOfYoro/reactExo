@@ -7,7 +7,7 @@ import "../styles/App.css";
 
 function App() {
   const savedCart = localStorage.getItem("cart");
-  const [isOpenCart, setIsOpenCart] = useState(JSON.parse(savedCart).length === 0 ? false : true);
+  const [isOpenCart, setIsOpenCart] = useState(savedCart === null || JSON.parse(savedCart).length === 0 ? false : true);
   const [cart, updateCart] = useState(savedCart ? JSON.parse(savedCart) : []);
   useEffect(() => {
     localStorage.setItem("cart", JSON.stringify(cart));

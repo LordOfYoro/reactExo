@@ -1,0 +1,16 @@
+.shopping-list {
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 74%;
+}
+
+.plant-list {
+	list-style-type: none;
+	padding: 0px 32px;
+}
+
+.category-list{
+	padding: 0px 32px;
+
+}

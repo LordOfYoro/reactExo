@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactExo/static/css/main.1eafc6a4.css",
+    "main.js": "/reactExo/static/js/main.991d3d26.js",
+    "static/media/olivier.jpg": "/reactExo/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/monstera.jpg": "/reactExo/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
+    "static/media/basil.jpg": "/reactExo/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/reactExo/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/reactExo/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/lyrata.jpg": "/reactExo/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/reactExo/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/reactExo/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/reactExo/static/media/succulent.f4329849930298a9e46b.jpg",
+    "static/media/sun.svg": "/reactExo/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/reactExo/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/reactExo/index.html",
+    "main.1eafc6a4.css.map": "/reactExo/static/css/main.1eafc6a4.css.map",
+    "main.991d3d26.js.map": "/reactExo/static/js/main.991d3d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eafc6a4.css",
+    "static/js/main.991d3d26.js"
+  ]
+}
